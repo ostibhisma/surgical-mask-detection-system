@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>SMDS</title>
+    <style>
+        #header{
+            text-align: center;
+            padding: 10px;
+            background-color: red;
+            color: white;
+        }
+        #bg{
+            border-radius: 10%;
+            padding: 10px;
+
+        }
+    </style>
+  </head>
+  <body>
+    <h1 id='header'>Surgical Mask Detection System</h1>
+    <img id="bg" src="{{ url_for('video_feed') }}">
+  </body>
+</html>
