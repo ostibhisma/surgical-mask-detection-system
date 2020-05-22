@@ -30,6 +30,7 @@ oauthlib==3.1.0
 opencv-python==4.2.0.34
 opencv-python-headless==4.2.0.34
 opt-einsum==3.2.1
+pkg-resources==0.0.0
 protobuf==3.11.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -44,7 +45,7 @@ six==1.14.0
 tb-nightly==1.14.0a20190603
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.0.0b1
+tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
@@ -54,4 +55,3 @@ urllib3==1.25.9
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.1.0
-
